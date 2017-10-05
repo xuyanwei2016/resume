@@ -40,12 +40,12 @@ img{ opacity: 0;}
 #page01 img:nth-child(1){position: absolute; top:1rem;width:70%; left:14%; z-index: 2;
     -webkit-animation:bounceInLeft 1s linear 0s forwards;
     animation:bounceInLeft 1s linear 0s forwards;opacity:0;}
-#page01 img:nth-child(2){position: absolute; top:1.4rem;width:100%;opacity: 1;  }
-#page01 img:nth-child(3){position: absolute; top:2.65rem;width:54%;left:23%;opacity: 1;}
-#page01 img:nth-child(4){position: absolute; bottom:0;width:60%;left:20%;opacity:0;
+#page01 img:nth-child(2){position: absolute; top:2rem;width:100%;opacity: 1;  }
+#page01 img:nth-child(3){position: absolute; top:3.15rem;width:54%;left:23%;opacity: 1;}
+#page01 img:nth-child(4){position: absolute; bottom:0;width:65%;left:20%;opacity:0;
     -webkit-animation:bounceInUp 1s linear 2s forwards;
     animation:bounceInUp 1s linear 2s forwards;}
-#page01 img:nth-child(5){position: absolute; top:3.17rem;width:48%;left:26%;opacity: 0;
+#page01 img:nth-child(5){position: absolute; top:3.67rem;width:48%;left:26%;opacity: 0;
     -webkit-animation:selfbs 1s linear 1s forwards;
     animation:selfbs 1s linear 1s forwards;}
 
@@ -122,8 +122,8 @@ img{ opacity: 0;}
 /*第三页 技能*/
 #page03 img:nth-child(1){position: absolute;top:0.1rem; left:.35rem;width:28%;opacity: 1;z-index: 2;-webkit-animation:rotateInDownLeft 1s linear 0s forwards;
     animation:rotateInDownLeft 1s linear 0s forwards;}
-#page03 img:nth-child(2){position: absolute;bottom:0.25rem; left:.8rem;width:76%;opacity: 1;z-index: 1}
-#page03 img:nth-child(3){position: absolute;bottom:0.45rem; width:100%;opacity: 1;z-index: 2}
+#page03 img:nth-child(2){position: absolute;bottom:0.6rem; left:.8rem;width:76%;opacity: 1;z-index: 1}
+#page03 img:nth-child(3){position: absolute;bottom:0.8rem; width:100%;opacity: 1;z-index: 2}
 #page03 img:nth-child(4){position: absolute;top:0; width:100%; opacity: 1;}
 
 #page03 ul{width:70%; left:15%; position: absolute; top:1.4rem;}
